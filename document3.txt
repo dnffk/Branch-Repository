@@ -1,1 +1,1 @@
-print("Hello world My name is Ju Yeon Park Nice to meet you!")
+Dept. of C.E.
